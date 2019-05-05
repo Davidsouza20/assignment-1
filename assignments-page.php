@@ -13,7 +13,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="function.js"></script>
 
-    <title>Assignment 01</title>
+    <title>Assignment 02</title>
 </head>
 <body>
 <?php include 'navbar.php' ?>
